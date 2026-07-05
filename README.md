@@ -14,4 +14,4 @@
 ## Установка
 Вставить в эксплоит:
 ```lua
-https://raw.githubusercontent.com/m31226953-wq/NoclipScript-By-CobraStudio/main/NoclipScriptByCobraStudio.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/m31226953-wq/NoclipScript-By-CobraStudio/main/NoclipScriptByCobraStudio.lua"))()
